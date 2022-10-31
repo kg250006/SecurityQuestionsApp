@@ -13,7 +13,7 @@ The intent was to ensure that the flow was broken down among individual methods 
 - public int processAnswerFlow(string name)
 - InitDB()
 
-This application uses NLog track of and archiving logs.
+This application uses NLog to allow monitoring transactions and the archiving of logs.
 
 
 
