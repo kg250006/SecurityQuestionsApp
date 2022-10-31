@@ -13,6 +13,9 @@ The intent was to ensure that the flow was broken down among individual methods 
 - public int processAnswerFlow(string name)
 - InitDB()
 
+This application uses NLog track of and archiving logs.
+
+
 
 ## Storage
 
