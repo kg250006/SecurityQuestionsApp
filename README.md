@@ -6,10 +6,10 @@ App to show use case process of handling user security questions
 
 The intent was to ensure that the flow was broken down among individual methods to effectively organize the process flow. Each process returns an integer to allow for more lucrative return actions. 
 
- public int PromptForName()
- public int processStoreFlow(string name)
- public int processAnswerFlow(string name)
- InitDB()
+- public int PromptForName()
+- public int processStoreFlow(string name)
+- public int processAnswerFlow(string name)
+- InitDB()
 
 
 ## Storage
